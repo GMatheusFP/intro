@@ -4,7 +4,8 @@
   "description": "class from webpack basics",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
