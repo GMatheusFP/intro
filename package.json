@@ -1,0 +1,24 @@
+{
+  "name": "intro",
+  "version": "1.0.0",
+  "description": "class from webpack basics",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "webpack-intro"
+  },
+  "keywords": [
+    "webpack",
+    "webpack",
+    "basic"
+  ],
+  "author": "Gian Matheus",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^5.64.1",
+    "webpack-cli": "^4.9.1"
+  }
+}
